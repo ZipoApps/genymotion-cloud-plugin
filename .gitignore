@@ -1,0 +1,10 @@
+.bloop
+.gradle
+.metals
+.vscode
+build
+cat.png
+text.md
+gradle
+.idea
+*DS_Store*
